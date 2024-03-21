@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  IOS_LAB4
 //
-//  Created by Tomiris Sultanbay on 07.03.2024.
+//  Created by Tomiris Sultanbay on 03.03.2024.
 //
 
 import UIKit
